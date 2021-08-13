@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Agustín E. Sánchez, Elctromechanical Engineer from Mar del Plata, Argentina. I'm studying software development.
+- 👀 I’m interested in Full Stack Development, Java, Python, HTML, SQL, Visual Basic for Applications, MATLAB, Arduino, Angular, NestJS.
+- 🌱 I’m currently learning Full Stack Development, Java, Python, HTML, SQL, Visual Basic for Applications, MATLAB, Arduino, Angular, NestJS.
+- 💞️ I’m looking to collaborate on Full Stack Development projects, APIs projects, Engineering projects
+- 📫 WhatSapp +5492235651707 - E-Mail:sanchezagustinezequiel@gmail.com
